@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* Aparelho em retrato */
+
+body {
+    background-image: url(../imagens/1be1f036591ebc6f87c3384cc03dab93.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
